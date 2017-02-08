@@ -1,4 +1,8 @@
 This is first git text file. 
 We need a very large spaceship.
+<<<<<<< HEAD
 This is collaborator terminal.
 Changes at the collaborator.
+=======
+This is from collaborator terminal but edited at the Planets.
+>>>>>>> 97bd83da5c8cc1086adc61caaf3af11556291ae7
